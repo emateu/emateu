@@ -1,12 +1,7 @@
 I build and ship software, from screen to server.
-AI is a core part of my dev workflow.
 
-I've spent many years writing and maintaining React apps, and I still enjoy it. Fedora Linux user.
-
-Working on:
-
-- Full-stack apps with TypeScript, React, Next.js, and Node.js
-- Self-hosting and operating side projects with Docker and Cloudflare.
+React since the early days, still enjoying it. Docker on the server.
+AI is how I ship now — Claude Code in my daily workflow.
 
 ---
 
